@@ -125,34 +125,29 @@ Make sure you don’t run into obstacles, and try to collect all rewards before 
 
 ## 📁 Project Structure
 
+```plaintext
 maze-game/
 ├── src/
-│ ├── main.cpp
-│ ├── player.cpp
-│ ├── maze.cpp
-│ └── ...
+│   ├── main.cpp
+│   ├── player.cpp
+│   ├── maze.cpp
+│   └── ...
 ├── include/
-│ ├── player.h
-│ ├── maze.h
-│ └── ...
+│   ├── player.h
+│   ├── maze.h
+│   └── ...
 ├── assets/
-│ ├── images/
-│ ├── sounds/
-│ └── ...
+│   ├── images/
+│   ├── sounds/
+│   └── ...
 ├── save/
-│ └── saved_game.dat
+│   └── saved_game.dat
 ├── screenshots/
-│ ├── main_menu.png
-│ ├── gameplay.png
-│ └── ...
+│   ├── main_menu.png
+│   ├── gameplay.png
+│   └── ...
 ├── Makefile
 └── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## 🤝 Contributing
 
