@@ -113,18 +113,13 @@ Make sure you don’t run into obstacles, and try to collect all rewards before 
 
 ## 🖼 User Interface Screenshots
 
-| Main Menu                                   | Gameplay Screen                                 |
-|--------------------------------------------|-----------------------------------------------|
-| ![Main Menu](![image](https://github.com/user-attachments/assets/688d6a9c-9aae-41ef-a494-ce7e2dec052d)
-)   | ![Gameplay](![image](https://github.com/user-attachments/assets/1a9ee4ae-3a50-4c3a-83a2-ac2695cba91d)
-)         |
+| Main Menu                                                                                      | Gameplay Screen                                                                                      |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| ![Main Menu](https://github.com/user-attachments/assets/688d6a9c-9aae-41ef-a494-ce7e2dec052d)   | ![Gameplay](https://github.com/user-attachments/assets/1a9ee4ae-3a50-4c3a-83a2-ac2695cba91d)         |
 
-| Move Tracking                              | Save/Load Playes Data                        |
-|--------------------------------------------|-----------------------------------------------|
-| ![Victory](![image](https://github.com/user-attachments/assets/ccd2510a-7f23-48d6-9995-0f8ab53f8a50)
-)        | ![Save Load](![image](https://github.com/user-attachments/assets/720759d4-8fa9-4f04-bda0-0aff27b0b21f)
-)       |
-
+| Move Tracking                                                                                   | Save/Load Player Data                                                                               |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| ![Move Tracking](https://github.com/user-attachments/assets/ccd2510a-7f23-48d6-9995-0f8ab53f8a50) | ![Save Load](https://github.com/user-attachments/assets/720759d4-8fa9-4f04-bda0-0aff27b0b21f)        |
 
 ---
 
