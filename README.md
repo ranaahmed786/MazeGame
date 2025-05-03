@@ -148,7 +148,7 @@ maze-game/
 │   └── ...
 ├── Makefile
 └── README.md
-
+```
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
