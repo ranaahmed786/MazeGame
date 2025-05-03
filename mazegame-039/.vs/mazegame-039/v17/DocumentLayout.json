@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\player.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:player.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\ProfessionalPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:ProfessionalPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\AmateurPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD74221-78C1-492D-9AF4-3B27FDB7D529}|mazegame-039.vcxproj|solutionrelative:AmateurPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAEAAABoMzMzM7MSwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T15:36:10.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T15:31:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.txt",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\player.txt",
+              "RelativeDocumentMoniker": "player.txt",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\player.txt",
+              "RelativeToolTip": "player.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-18T12:03:42.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maze.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Maze.h",
+              "RelativeDocumentMoniker": "Maze.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Maze.h",
+              "RelativeToolTip": "Maze.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T07:34:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfessionalPlayer.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\ProfessionalPlayer.h",
+              "RelativeDocumentMoniker": "ProfessionalPlayer.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\ProfessionalPlayer.h",
+              "RelativeToolTip": "ProfessionalPlayer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T15:40:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T10:19:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AmateurPlayer.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\AmateurPlayer.h",
+              "RelativeDocumentMoniker": "AmateurPlayer.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\mazegame\\mazegame-039\\AmateurPlayer.h",
+              "RelativeToolTip": "AmateurPlayer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T15:41:27.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

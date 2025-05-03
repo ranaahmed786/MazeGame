@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(21,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(21,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(28,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(28,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(34,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(40,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(46,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Cell.h(46,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,61): warning C4244:         with
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,61): warning C4244:         [
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,61): warning C4244:             T=float
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,61): warning C4244:         ]
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,45): warning C4244:         with
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,45): warning C4244:         [
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,45): warning C4244:             T=float
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(53,45): warning C4244:         ]
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,57): warning C4244:         with
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,57): warning C4244:         [
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,57): warning C4244:             T=float
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,57): warning C4244:         ]
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,41): warning C4244:         with
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,41): warning C4244:         [
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,41): warning C4244:             T=float
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(57,41): warning C4244:         ]
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(87,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(87,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(90,128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\Game.h(90,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mazegame-039.vcxproj -> C:\Users\ranaa\OneDrive\Documents\mazegame\mazegame-039\x64\Debug\mazegame-039.exe
